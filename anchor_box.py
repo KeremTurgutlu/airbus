@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import torch 
 from torch.autograd import Variable
 import numpy as np
+import pdb 
 
 def plot_anchors(anc_x, anc_y):
     plt.scatter(anc_x, anc_y)

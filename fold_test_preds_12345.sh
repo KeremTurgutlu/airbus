@@ -1,0 +1,10 @@
+python team_data_test_preds.py 1
+python team_data_test_preds.py 2
+python team_data_test_preds.py 3
+python team_data_test_preds.py 4
+python team_data_test_preds.py 5
+python team_data_fold_preds.py 1
+python team_data_fold_preds.py 2
+python team_data_fold_preds.py 3
+python team_data_fold_preds.py 4
+python team_data_fold_preds.py 5
